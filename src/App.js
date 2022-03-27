@@ -22,6 +22,7 @@ class App extends React.Component{
     }
 
     render(){
+        const { advice } = this.state;
         return (
             <div className="app">
                 <div className="card">
