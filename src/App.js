@@ -1,6 +1,8 @@
 import React from 'react';
 import axios from 'axios';
 
+import './App.css';
+
 class App extends React.Component{
 
     state = {advice: '' };
@@ -27,6 +29,9 @@ class App extends React.Component{
             <div className="app">
                 <div className="card">
                     <h1 className="heading">{advice}</h1>
+                    <button className="button" onClick={this.fetchAdvice}>
+                        <span>Not Enough!</span>
+                    </button>
                 </div>
             </div>
         );
