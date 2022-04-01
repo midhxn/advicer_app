@@ -1,11 +1,12 @@
-### Adviser App - Quotes and Advices
-Live demo: https://adviser-app.netlify.app/
+## Adviser App - Quotes and Advices
 
-This is a project for react beginners to learn and get into react.
+🌐 Live demo: https://adviser-app.netlify.app/
 
-# Happy coding
+This is a project for react beginners to learn and get into react.💪
 
-## Available Scripts
+### Happy coding 👨🏻‍💻
+
+## Available Scripts 
 
 In the project directory, you can run:
 
