@@ -4,6 +4,7 @@
 
 This is a project for react beginners to learn and get into react.💪
 
+Html , css , Js with Reactjs
 
 ## Available Scripts 
 
