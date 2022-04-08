@@ -6,6 +6,8 @@ This is a project for react beginners to learn and get into react.💪
 
 Html , css , Js with Reactjs
 
+Modern ui elements.
+
 ## Available Scripts 
 
 In the project directory, you can run:
