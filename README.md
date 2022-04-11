@@ -8,7 +8,8 @@ Html , css , Js with Reactjs
 
 Modern ui elements.
 
-## Available Scripts 
+
+## Can use the code
 
 In the project directory, you can run:
 
