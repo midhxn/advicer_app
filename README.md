@@ -8,6 +8,8 @@ Html , css , Js with Reactjs
 
 Modern ui elements.
 
+Nb:currently not updating this project.
+
 
 ## Can use the code
 
